@@ -1,0 +1,36 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    outline-style: auto;
+}
+body {
+    background-color: #adff92;
+}
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color:#170386;
+    border-style: dotted;
+}
+td, th {
+    background-color: #f3ffb3;
+    border: 5px solid #000000;
+    text-align: center;
+    padding: 10px;
+}
+tr:nth-child(even) {
+    background-color: #F0F8FF;
+}
+p {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: CornflowerBlue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    height: fit-content;
+    width: fit-content;
+}
